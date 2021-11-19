@@ -1,0 +1,70 @@
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_1\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_2\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_3\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_4\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D_new\Lec_5 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.csprojResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_3D\Lec_5 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.csproj.GenerateResource.Cache
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.csprojResolveAssemblyReference.cache
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+D:\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.csproj.GenerateResource.Cache
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.exe
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.pdb
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.exe
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\bin\Debug\In_Lec.pdb
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.csprojResolveAssemblyReference.cache
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+C:\Users\Heba\Downloads\CS427 Graphics2\Lec_4 (Camera)\In_Lec\In_Lec\obj\x86\Debug\In_Lec.csproj.GenerateResource.Cache
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\LECS\Lec_4\In_Lec\obj\x86\Debug\In_Lec.exe
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\LECS\Lec_4\In_Lec\obj\x86\Debug\In_Lec.pdb
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\obj\x86\Debug\In_Lec.exe
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\obj\x86\Debug\In_Lec.pdb
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\bin\Debug\In_Lec.exe
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\bin\Debug\In_Lec.pdb
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\obj\x86\Debug\In_Lec.csprojResolveAssemblyReference.cache
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\obj\x86\Debug\In_Lec.Properties.Resources.resources
+F:\7th.semester.CS\3D Visualisation\DR.HEBA\lab\task3\Lec_4\In_Lec\obj\x86\Debug\In_Lec.csproj.GenerateResource.Cache
